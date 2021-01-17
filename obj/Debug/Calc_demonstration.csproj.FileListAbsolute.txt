@@ -14,3 +14,18 @@ C:\Users\Admin\Desktop\University\3 семестр\Среды визуально
 C:\Users\Admin\Desktop\University\3 семестр\Среды визуального программирования\лабы\Calculator\Calc_demonstration\Calc_demonstration\obj\Debug\Calc_demonstration.csproj.GenerateResource.Cache
 C:\Users\Admin\Desktop\University\3 семестр\Среды визуального программирования\лабы\Calculator\Calc_demonstration\Calc_demonstration\obj\Debug\Calc_demonstration.exe
 C:\Users\Admin\Desktop\University\3 семестр\Среды визуального программирования\лабы\Calculator\Calc_demonstration\Calc_demonstration\obj\Debug\Calc_demonstration.pdb
+C:\Users\Admin\Documents\GitHub\Calculator_Git\bin\Debug\Calc_demonstration.exe.config
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration.exe
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration.pdb
+C:\Users\Admin\Documents\GitHub\Calculator_Git\bin\Debug\Calc_demonstration.exe
+C:\Users\Admin\Documents\GitHub\Calculator_Git\bin\Debug\Calc_demonstration.pdb
+C:\Users\Admin\Documents\GitHub\Calculator_Git\bin\Debug\Calcdivision.pdb
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration_MarkupCompile.cache
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration_MarkupCompile.lref
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration.g.resources
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Calculator_Git\obj\Debug\Calc_demonstration.csproj.GenerateResource.Cache
